@@ -1,0 +1,107 @@
+# Copyright (C) 2010 PiwikCounter
+# This file is distributed under the same license as the PiwikCounter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PiwikCounter 0.3.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/piwikcounter\n"
+"POT-Creation-Date: 2011-06-20 19:37:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: class.PiwikCounterWidget.php:19
+msgid "Title:"
+msgstr ""
+
+#: class.PiwikCounterWidget.php:60
+msgid "0<br/>visitors since"
+msgstr ""
+
+#: class.PiwikCounterWidget.php:64
+msgid "%d<br/>visitor since"
+msgid_plural "%d<br/>visitors since"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class.PiwikCounterWidget.php:76
+msgid "0<br/>visits today"
+msgstr ""
+
+#: class.PiwikCounterWidget.php:80
+msgid "%d<br/>visit today"
+msgid_plural "%d<br/>visits today"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class.PiwikCounterAdministration.php:23
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:51
+msgid "Options saved."
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:58
+msgid "PiwikCounter Settings"
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:66
+msgid "Piwik installation"
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:73
+msgid "Site ID"
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:80
+msgid "Authorisation Key"
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:87
+msgid "Start date"
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:94
+msgid "Type of visits"
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:104
+msgid "Update interval"
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:111
+msgid "Todays visitors"
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:115
+msgid "Show todays visitors"
+msgstr ""
+
+#: class.PiwikCounterAdministration.php:120
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PiwikCounter"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://piwikcounter.rontu.de"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"PiwikCounter allows you to show the summary of (unique) visitors as a widget "
+"on your blog."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tobias Etzold"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://blog.rontu.de"
+msgstr ""
